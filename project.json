@@ -1,0 +1,10 @@
+{
+    "name": "hellomf",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "hellomf.xml",
+    "author": "joshsrobot",
+    "minimum_firmware_version": 42
+}
