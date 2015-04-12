@@ -30,22 +30,6 @@
                 <next>
                   <block type="oled_drawtext" id="69">
                     <field name="TEXT"> how are you</field>
-                    <next>
-                      <block type="movement_forward" id="110">
-                        <next>
-                          <block type="robot_delay" id="112" inline="true">
-                            <value name="DELAY">
-                              <block type="math_number" id="119">
-                                <field name="NUM">5000</field>
-                              </block>
-                            </value>
-                            <next>
-                              <block type="movement_stop" id="129"></block>
-                            </next>
-                          </block>
-                        </next>
-                      </block>
-                    </next>
                   </block>
                 </next>
               </block>
